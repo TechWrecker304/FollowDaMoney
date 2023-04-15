@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "Send to OpenSecrets",
+  "version": "1.0",
+  "description": "Send highlighted text to OpenSecrets.org's search input",
+  "permissions": ["contextMenus", "activeTab", "tabs", "*://*.opensecrets.org/*"],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "browser_action": {
+    "default_icon": "icon16.png"
+  }
+}
