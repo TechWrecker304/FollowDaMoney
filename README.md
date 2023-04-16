@@ -1,6 +1,6 @@
 # Follow Da Money Chrome Extension
 
-Follow Da Money is a simple Chrome Extension that allows users to highlight text on any webpage and send it directly to the search input on the OpenSecrets.org's organization profiles page.
+Follow Da Money is a simple Chrome Extension that allows users to highlight a companies name on any webpage and send it directly to the search input on the OpenSecrets.org's organization profiles page.
 
 ## Features
 
